@@ -1,13 +1,25 @@
 body{
-    background-color: green;
+    background-color: white;
 }
 h1{
     text-align: center;
     font-weight: bold;
-    font-size: 50px;
+    font-size: 75px;
     background-color: orange;
+    padding: 30px;
+    margin-top: 0 auto;
+    margin-bottom: 8px;
 }
 
 ul{
-    background-color: pink;
+    background-color: wheat;
+    padding: 300px;
+}
+
+li{
+    font-size: 50px;
+    text-align: center;
+    background-color: orange;
+    border-color: navy;
+    border-style: solid;
 }

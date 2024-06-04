@@ -1,8 +1,36 @@
 h1{
+    background-color: orange;
     text-align: center;
     font-size: 50px;
+    margin-bottom: 8px;
+    padding: 75px;
 }
 
 body{
-    background-color: aqua;
+    background-color: white;
+}
+
+div{
+    background-color: wheat;
+    padding: 25px;
+    margin-bottom: 8px;
+}
+
+img{
+    margin-left: 350px;
+}
+
+h3{
+    background-color: orange;
+    text-align: center;
+}
+
+ul{
+    margin-bottom: 8px;
+}
+
+.description{
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 8px;
 }
